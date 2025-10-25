@@ -1,6 +1,6 @@
 # Social Welfare in Poland (2019-2023) - Power BI Dashboard
 
-### ![Click Here for a Short Video Demonstration of the Dashboard]([https://youtu.be/PZGjMecnpD4])
+### [Click Here for a Short Video Demonstration of the Dashboard](https://youtu.be/PZGjMecnpD4)
 
 ## Project Overview
 
@@ -15,27 +15,21 @@ The primary goal of this project is to consolidate complex data into a clear, in
 The dashboard is built from four main pages, each focusing on a specific, official GUS category:
 
 1.  **Beneficiaries of Social Assistance at Domicile:** Analyzing the demographics of beneficiaries by age, household income, and main source of livelihood.
+
+  ![Beneficiaries of Social Assistance at Domicile](https://github.com/user-attachments/assets/8df6c51a-41b7-4ee3-b69e-e7af09749d80)
+
 2.  **Social Assistance Benefits:** Visualizing the value and types of benefits paid, distinguishing between monetary and non-monetary aid.
-3.  **Institutional Foster Care:** A detailed look at institutional care facilities, including the number of places, residents, and primary reasons for placement.
-4.  **Family Foster Care:** An analysis of family-based foster care, including types of families and demographics of children in care.
-
-
-
-1. **Beneficiaries of Social Assistance at Domicile**
-
-![Beneficiaries of Social Assistance at Domicile](https://github.com/user-attachments/assets/8df6c51a-41b7-4ee3-b69e-e7af09749d80)
-
-2.  **Social Assistance Benefits**
 
 ![Social Assistance Benefits](https://github.com/user-attachments/assets/9ae3bd0a-923f-486c-bb86-79a840fd8881)
-
-3.  **Family Foster Care**
+   
+3.  **Institutional Foster Care:** A detailed look at institutional care facilities, including the number of places, residents, and primary reasons for placement.
 
 ![Family Foster Care](https://github.com/user-attachments/assets/d6f42428-3790-4a3a-92b5-c2e318fd3195)
 
-4.  **Institutional Foster Care**
+4.  **Family Foster Care:** An analysis of family-based foster care, including types of families and demographics of children in care.
 
 ![Institutional Foster Care](https://github.com/user-attachments/assets/17a2308c-2e49-4016-b972-68a341f4d317)
+
 
 ## Key Features
 
