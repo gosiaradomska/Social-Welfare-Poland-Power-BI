@@ -47,5 +47,5 @@ The dashboard is built from four main pages, each focusing on a specific, offici
 ## Repository Contents
 
 * **`Dashboard_PS.pbix` File:** The full Power BI project file.
-* **`/data` (Opcjonalnie):** Folder containing the raw `.xlsx` files downloaded from BDL.
+* **`/data`:** Folder containing the raw `.xlsx` files downloaded from BDL.
 * **`/screenshots`:** Folder containing the dashboard preview images.
